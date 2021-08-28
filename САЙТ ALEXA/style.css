@@ -1,0 +1,76 @@
+body {
+}
+
+.zagol{
+	left: 300px;
+	position: absolute;
+}
+
+header {
+	display: -webkit-flex;
+	display: -ms-flex;
+	display: flex;
+	-ms-align-items: center;
+	align-items: center;
+	margin-top: 0px;
+	background-color: #FFFAFA;
+	padding: 25px;
+
+}
+
+
+header .mnu_top {
+	list-style-type: none;
+	margin-left: 1155px;
+}
+
+header .mnu_top li {
+	display: inline-block;
+	margin-right: 75px;
+}
+
+header .mnu_top li a {
+	display: block;
+	text-decoration: none;
+	color: #000000;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.spisok {
+
+}
+section img {
+	border-radius: 50%;
+	display: block;
+	margin: auto;
+	margin-top: 15px;
+}
+
+section h2 {
+	text-align: center;
+}
+
+section h3 {
+	text-align: center;
+	opacity: 0.6;
+	margin-bottom: 5px;
+}
+
+.footer h1 {
+	text-align: center;
+	color: #FFFFFF;
+}
+
+footer {
+	background-color: #050706;
+	padding-top: 3px;
+	padding-bottom: 5px;
+}
+
+.footer h2 {
+	position: absolute;
+	color: #FFFFFF;
+	margin-left: 150px;
+	bottom: -690px;
+}
